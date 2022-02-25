@@ -1,5 +1,5 @@
 ### Table of Contents
-Sign Up as a [technical lead or participant](https://forms.gle/c5uYAzQCMawzQXSt8)
+**Sign Up as a [technical lead or participant](https://forms.gle/c5uYAzQCMawzQXSt8)**
    
 Story 
   - [What are we solving](#story)
@@ -18,8 +18,7 @@ How it will be built
 # ProgramEquity Hacks <a name = "story"></a>
 ProgramEquity Hacks are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 
-https://user-images.githubusercontent.com/9143339/149373941-0cb553e6-c6d8-4905-8436-35506d448aec.mp4
-
+https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a1e1-4ac2e54c261a.mp4
 
 [Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
 
