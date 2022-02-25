@@ -5,8 +5,8 @@ Story
   - [What are we solving](#story)
   - [Challenge](#challenge)
 
-[How it will be](#built)
-  - [Teams, Skillsets and Stack](#stack)
+[How it will be built]
+  - [Teams, Skillsets and Stack](#built)
   - [Schedule for the Day](#sched)
   - [What are our Goals and prizes?](#dream)
 
