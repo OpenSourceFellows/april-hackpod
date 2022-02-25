@@ -12,8 +12,8 @@ How it will be built
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
-This hackathon pilot will be held on February 10th from **8am-2 pm PT**
-<img width="649" alt="Screen Shot 2022-01-24 at 10 13 48 AM" src="https://user-images.githubusercontent.com/9143339/150840354-118ba24f-3be9-40b7-94b4-339becca8249.png">
+# We are trying to meet 10% Hubber partipation during [Social Impact ](https://thehub.github.com/github/social-impact/)Volunteer month for Earth Day!
+<img width="846" alt="Screen Shot 2022-02-24 at 6 11 21 PM" src="https://user-images.githubusercontent.com/9143339/155640591-d0c45029-d8b5-4fa8-93c3-16fc7c669062.png">
 
 # ProgramEquity Hacks <a name = "story"></a>
 ProgramEquity Hacks are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
@@ -210,9 +210,21 @@ Skillsets of UI/UX Design and fullstack strongly encouraged to attend
    <td>Green within - the dreams we dream with Black and Indigenous owned Land Trusts with Lizzie and Filmmaker Sabrina Cooper
    </td>
   </tr>
+   <tr>
+   <td><p style="text-align: right">
+<strong>1:30-4:30</strong></p>
+
+<p>
+<p style="text-align: right">
+<strong>Hack away</strong></p>
+
+   </td>
+   <td>Make sure to take breaks as needed!
+   </td>
+  </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>1:30</strong></p>
+<strong>4:30</strong></p>
 
 <p>
 <p style="text-align: right">
