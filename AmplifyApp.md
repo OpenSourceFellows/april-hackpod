@@ -19,7 +19,7 @@ The MIT study astutley observed that tech solutions must engage with the ecosyst
 
 ### Community Informed Design Explained 
    - Our **first layer** of defining the problem looks at the pain points of users (these workshops will be provided throughout the day)
-     - User advocacy research via [MERL ](https://merltech.org/)
+     - User advocacy research utilizing [MERL framework ](https://merltech.org/)
      - Data protection and compliance through [PII](https://www.red-gate.com/simple-talk/devops/data-privacy-and-protection/introduction-to-devops-security-privacy-and-compliance/)
      - Person informed design via [TrueNorth](https://www.truenorthedi.com/how-we-work.html)
    - Our **second layer** focuses on implementation and orchestrates things via a [DevSecOps workflow](https://github.com/learn/devops)
