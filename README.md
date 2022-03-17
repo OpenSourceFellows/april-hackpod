@@ -12,7 +12,7 @@ How it will be built
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
-# We are trying to meet 10% Hubber partipation during [Social Impact ](https://thehub.github.com/github/social-impact/)Volunteer month for Earth Day! (April 21st 8am-5pm)
+# We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day! (April 21st 8am-5pm)
 <img width="846" alt="Screen Shot 2022-02-24 at 6 11 21 PM" src="https://user-images.githubusercontent.com/9143339/155640591-d0c45029-d8b5-4fa8-93c3-16fc7c669062.png">
 
 # ProgramEquity Hacks <a name = "story"></a>
