@@ -28,7 +28,9 @@ Our connection with our Earth is fostered through climated action and we're dedi
 <img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
    
 Sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
- 
+
+<p align="center">
+<img width="694" alt="Screen Shot 2022-03-22 at 12 14 28 PM" src="https://user-images.githubusercontent.com/9143339/159558050-1876e3d3-dbbf-4a08-9d6e-8ed44de84298.png">
 
 
 ## Challenge: <a name = "challenge"></a>
@@ -246,6 +248,5 @@ Skillsets of UI/UX Design and fullstack strongly encouraged to attend
 
 
 
-<img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/150836356-cc566973-0baa-4443-a884-2127938c64fe.png">
 
    
