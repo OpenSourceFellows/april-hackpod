@@ -101,7 +101,7 @@ Participants will be attending from 8 am to 2 pm pt. Your pod team is your home 
    </td>
    <td>YAML, <a href="https://codeql.github.com/">CodeQL</a>
    </td>
-   <td><a href="https://github.com/features/actions">Actions</a>, <a href="https://www.heroku.com/continuous-integration">CI/CD Heroku</a>, [Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets), Permissions, [Dependabot](https://github.com/dependabot)
+   <td><a href="https://github.com/features/actions">Actions</a>, <a href="https://www.heroku.com/continuous-integration">CI/CD Heroku</a>, <a href="https://docs.github.com/en/actions/security-guides/encrypted-secrets">Secrets</a>, Permissions, <a href="https://github.com/dependabot">Dependabot</a>
    </td>
   </tr>
 </table>
