@@ -12,7 +12,7 @@ How it will be built
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
-# We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day! (April 21st 8am-5pm)
+# We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day! (April 21st 8:45am-2:30pm pt)
 <img width="846" alt="Screen Shot 2022-02-24 at 6 11 21 PM" src="https://user-images.githubusercontent.com/9143339/155640591-d0c45029-d8b5-4fa8-93c3-16fc7c669062.png">
 
 Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. 
