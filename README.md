@@ -119,7 +119,7 @@ Participants will be attending a live session from 8:45 am to 2:30 pm pt. In the
 In the second part, the CoB hosted learning day conversations, you will have a chance to finish work asynchronously with your team within GitHub issues and #advocats slack channel as a way to accumulate more prizes for your favorite charity through Benevity Missions on top of the prizes you get to redeem from hours volunteered. 
 
 ### Prizes with Benevity Missions
-
+Each hour of your participation will reward you with 20$ of Benevity credits to donate to your choice of charity. We will also have Benevity Missions to help track your progress across issue brainstorming - depending on how much you get done, more prizes will be rewarded. Full breakdown will be given during the keynote.
 ## Program Highlights <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
