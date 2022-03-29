@@ -6,21 +6,28 @@ Story
   - [Challenge](#challenge)
 
 How it will be built
-  - [Teams, Skillsets and Stack](#built)
+  - [Teams, Skillsets and Stack](#challenge)
   - [Schedule for the Day](#sched)
   - [What are our Goals and prizes?](#dream)
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
 # We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day! (April 21st 8:45am-2:30pm pt)
-<img width="846" alt="Screen Shot 2022-02-24 at 6 11 21 PM" src="https://user-images.githubusercontent.com/9143339/155640591-d0c45029-d8b5-4fa8-93c3-16fc7c669062.png">
+https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a1e1-4ac2e54c261a.mp4
 
 Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. 
 
+**Epic Planning Brainstorm:** We are using the best practices we have picked up across this stack and our skillsets to do an epic planning session for the next iterations of the Amplify product.
+
+- [Look at Epics to be brainstormed ](https://github.com/orgs/ProgramEquity/projects/8)
+
+**Learning Circle with CoBs:** For the second part of the learning and brainstorm day, we have 3 panels for you to listen to and deepen your understanding of sustainability, land stewardship, and Indigenous communities across the globe
+ - [Look at full schedule here](sched)
+
 # ProgramEquity <a name = "story"></a>
 ProgramEquity provides research driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
+<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
 
-https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a1e1-4ac2e54c261a.mp4
 
 [Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this learning day  is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
 
@@ -35,12 +42,6 @@ Sustainability happens when we transform the dynamic of land belonging to us to 
 <img width="694" alt="Screen Shot 2022-03-22 at 12 14 28 PM" src="https://user-images.githubusercontent.com/9143339/159558050-1876e3d3-dbbf-4a08-9d6e-8ed44de84298.png">
 
 
-
-
-## What are we brainstorming? <a name="built">
-We have 2 sessions: 
-   1. Epic Planning Brainstorm:  We are using the best practices we have picked up across this stack and our skillsets to do an epic planning session for the next iterations of the Amplify product. 
-   2. Learning Circle with CoBs: For the second part of the learning and brainstorm day, we have 3 panels for you to listen to and deepen your understanding of sustainability, land stewardship, and Indigenous communities across the globe
 
 ## Challenge: <a name = "challenge"></a>
 Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
@@ -64,22 +65,6 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
    <td>Markdown, Agile methodology
    </td>
    <td>Docs, Wikis, Issues, Project Boards
-   </td>
-  </tr>
-  <tr>
-   <td>🎨 UI/UX Design
-   </td>
-   <td>CSS, HTML
-   </td>
-   <td>Figma
-   </td>
-  </tr>
-  <tr>
-   <td>🖼 Frontend
-   </td>
-   <td>Vuetify, BootsrapVue
-   </td>
-   <td>Figma, GitHub flow
    </td>
   </tr>
   <tr>
@@ -111,15 +96,25 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
    
 
 ### Setting up teams 
+**1. First, select the skillset you'd like to participate in:**
 <img width="911" alt="Screen Shot 2022-03-28 at 3 31 42 PM" src="https://user-images.githubusercontent.com/9143339/160497962-deec2f02-92db-4b5f-a5d1-784f157933f9.png">
 
-Participants will be attending a live session from 8:45 am to 2:30 pm pt. In the live session you will select the skillset you'd like to participate in and one epic you'd like to be a part of to write out implementation instructions for. 
-</a><img width="647" alt="Screen Shot 2022-02-02 at 7 57 52 AM" src="https://user-images.githubusercontent.com/9143339/152385305-bf264cc8-fdb2-4533-b120-7e6776529dab.png">
 
-In the second part, the CoB hosted learning day conversations, you will have a chance to finish work asynchronously with your team within GitHub issues and #advocats slack channel as a way to accumulate more prizes for your favorite charity through Benevity Missions on top of the prizes you get to redeem from hours volunteered. 
+**2. In the second part, select one epic you'd like to be a part of to write out implementation instructions for:**
+   - Epic 1: Bettering codespace experience for outside collaborators 
+   - Epic 2: Enhancing OSS DevSecOps through security policy and actions like Mayhem API 
+   - Epic 3: Automating documentation workflows with OpenAPI
+   - Epic 4: QA bugs and unit tests for Cicero and Stripe APIs(Jest)
+   - Epic 5: ntegrating user education with Twilio and Chatbot APIs
+   - Epic 6: Abstracting database operations via Objection ORM 
 
 ### Prizes with Benevity Missions
-Each hour of your participation will reward you with 20$ of Benevity credits to donate to your choice of charity. We will also have Benevity Missions to help track your progress across issue brainstorming - depending on how much you get done, more prizes will be rewarded. Full breakdown will be given during the keynote.
+<p align="center">
+
+ <img width="319" alt="Screen Shot 2022-03-28 at 10 18 58 PM" src="https://user-images.githubusercontent.com/9143339/160538626-7e4c9097-b635-4ea4-be6e-e5bcbc1f9c77.png">
+
+In the CoB hosted learning day conversations, you will have a chance to finish work asynchronously with your team within GitHub issues and #advocats slack channel as a way to accumulate more prizes for your favorite charity through Benevity Missions on top of the prizes you get to redeem from hours volunteered. 
+
 ## Program Highlights <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
@@ -211,13 +206,5 @@ Hackathon will be held virtually on Zoom. Here is your schedule based on the tra
 
 
 </p>
-
-## What are our goals? <a name="dream"></a>
-
-<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
-
-
-
-
 
    
