@@ -24,25 +24,6 @@ Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring H
 **Learning Circle with CoBs:** For the second part of the learning and brainstorm day, we have 3 panels for you to listen to and deepen your understanding of sustainability, land stewardship, and Indigenous communities across the globe
  - [Look at full schedule here](sched)
 
-# ProgramEquity <a name = "story"></a>
-ProgramEquity provides research driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
-<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
-
-
-[Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this learning day  is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
-
-Our connection with our Earth is fostered through climate action and we're dedicating the day to evolving the [Amplify platform](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to accomodate more than 40+ advocacy groups based in sustainability.
-
-<p align="center">
-<img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
-   
-Sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
-
-<p align="center">
-<img width="694" alt="Screen Shot 2022-03-22 at 12 14 28 PM" src="https://user-images.githubusercontent.com/9143339/159558050-1876e3d3-dbbf-4a08-9d6e-8ed44de84298.png">
-
-
-
 ## Challenge: <a name = "challenge"></a>
 Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
 The first part of an Earth Day Learning Day will focus on your input on the following issues for best implementation practices 
@@ -101,12 +82,12 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
 
 
 **2. In the second part, select one epic you'd like to be a part of to write out implementation instructions for:**
-   - Epic 1: Bettering codespace experience for outside collaborators 
-   - Epic 2: Enhancing OSS DevSecOps through security policy and actions like Mayhem API 
-   - Epic 3: Automating documentation workflows with OpenAPI
-   - Epic 4: QA bugs and unit tests for Cicero and Stripe APIs(Jest)
-   - Epic 5: ntegrating user education with Twilio and Chatbot APIs
-   - Epic 6: Abstracting database operations via Objection ORM 
+   - Epic 1: [Bettering codespace experience for outside collaborators ](https://github.com/ProgramEquity/amplify/issues/19)
+   - Epic 2: Enhancing OSS DevSecOps through [security policy](https://github.com/ProgramEquity/amplify/issues/158) and actions like [Mayhem API ](https://github.com/ProgramEquity/amplify/issues/130)
+   - Epic 3: [Automating documentation workflows with OpenAPI](https://github.com/ProgramEquity/amplify/issues/125)
+   - Epic 4: [QA bugs and unit tests for Cicero and Stripe APIs(Jest)](https://github.com/ProgramEquity/amplify/issues/149)
+   - Epic 5: Integrating user education with [Twilio](https://github.com/ProgramEquity/amplify/issues/128) and [Chatbot APIs](https://github.com/ProgramEquity/amplify/issues/129)
+   - Epic 6: [Abstracting database operations via Objection ORM ](https://github.com/ProgramEquity/amplify/issues/31)
 
 ### Prizes with Benevity Missions
 <p align="center">
@@ -118,7 +99,7 @@ In the CoB hosted learning day conversations, you will have a chance to finish w
 ## Program Highlights <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
-<img width="1490" alt="Screen Shot 2022-02-03 at 5 58 12 AM" src="https://user-images.githubusercontent.com/9143339/152695001-61b3b2a6-c2d8-49a8-a69b-1cbb4150d1b9.png">
+<img width="1189" alt="Screen Shot 2022-03-29 at 7 34 46 PM" src="https://user-images.githubusercontent.com/9143339/160739723-eb356ae9-d00c-4dc5-bb2c-b65c2d683a94.png">
 
 
 ### Schedule Day of 
@@ -137,7 +118,7 @@ Hackathon will be held virtually on Zoom. Here is your schedule based on the tra
 <strong>8:45: Welcome LT Keynote  </strong></p>
 
    </td>
-   <td>Keith Ballinger kicks off. Introduce Benevity Missions for volunteering. Layout teams & epic workflows 
+   <td>Keith Ballinger kicks us off. Introduce Benevity Missions for volunteering. Layout teams & epic workflows 
    </td>
   </tr>
   <tr>
@@ -207,4 +188,19 @@ Hackathon will be held virtually on Zoom. Here is your schedule based on the tra
 
 </p>
 
+# What is ProgramEquity? <a name = "story"></a>
+ProgramEquity provides research driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
+<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
+
+
+[Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this learning day  is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
+
+Our connection with our Earth is fostered through climate action and we're dedicating the day to evolving the [Amplify platform](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to accomodate more than 40+ advocacy groups based in sustainability.
+
+<p align="center">
+<img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
    
+Sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
+
+<p align="center">
+<img width="694" alt="Screen Shot 2022-03-22 at 12 14 28 PM" src="https://user-images.githubusercontent.com/9143339/159558050-1876e3d3-dbbf-4a08-9d6e-8ed44de84298.png">
