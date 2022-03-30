@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a
 Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. 
 
 **Epic Planning Brainstorm:** We are using the best practices we have picked up across this stack and our skillsets to do an epic planning session for the next iterations of the Amplify product.
-- [Look at Epics to be brainstormed ](https://github.com/orgs/ProgramEquity/projects/8)
+- [Look at Epics to be brainstormed ](#challenge)
 
 <p align="center">
 <img width="818" alt="Screen Shot 2022-03-30 at 8 20 20 AM" src="https://user-images.githubusercontent.com/9143339/160880520-c6d6c4ff-19ba-4d8d-9651-3f9d50d6187e.png">
