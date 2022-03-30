@@ -18,11 +18,17 @@ https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a
 Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. 
 
 **Epic Planning Brainstorm:** We are using the best practices we have picked up across this stack and our skillsets to do an epic planning session for the next iterations of the Amplify product.
-
 - [Look at Epics to be brainstormed ](https://github.com/orgs/ProgramEquity/projects/8)
+
+<p align="center">
+<img width="818" alt="Screen Shot 2022-03-30 at 8 20 20 AM" src="https://user-images.githubusercontent.com/9143339/160880520-c6d6c4ff-19ba-4d8d-9651-3f9d50d6187e.png">
+
 
 **Learning Circle with CoBs:** For the second part of the learning and brainstorm day, we have 3 panels for you to listen to and deepen your understanding of sustainability, land stewardship, and Indigenous communities across the globe
  - [Look at full schedule here](sched)
+<img width="1050" alt="Screen Shot 2022-03-30 at 8 48 19 AM" src="https://user-images.githubusercontent.com/9143339/160880467-71c6ba4a-e73b-44bd-955a-7add7b82beab.png">
+
+
 
 ## Challenge: <a name = "challenge"></a>
 Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
@@ -96,11 +102,9 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
 
 In the CoB hosted learning day conversations, you will have a chance to finish work asynchronously with your team within GitHub issues and #advocats slack channel as a way to accumulate more prizes for your favorite charity through Benevity Missions on top of the prizes you get to redeem from hours volunteered. 
 
-## Program Highlights <a name = "sched"></a>
+## Program Schedule <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
-<img width="1189" alt="Screen Shot 2022-03-29 at 7 34 46 PM" src="https://user-images.githubusercontent.com/9143339/160739723-eb356ae9-d00c-4dc5-bb2c-b65c2d683a94.png">
-
 
 ### Schedule Day of 
 
@@ -190,8 +194,6 @@ Hackathon will be held virtually on Zoom. Here is your schedule based on the tra
 
 # What is ProgramEquity? <a name = "story"></a>
 ProgramEquity provides research driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
-<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
-
 
 [Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this learning day  is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
 
