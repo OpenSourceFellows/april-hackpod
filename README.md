@@ -1,5 +1,5 @@
 ### Table of Contents for Earth Day: Learning and Brainstorming
-**Sign Up as a [technical lead or participant](https://forms.gle/c5uYAzQCMawzQXSt8)**
+**Sign Up as a [participant](https://github.benevity.org/volunteer/189)**
    
 Story 
   - [What are we solving](#story)
