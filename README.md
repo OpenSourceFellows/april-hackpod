@@ -98,9 +98,8 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
 ### Prizes with Benevity Missions
 <p align="center">
 
- <img width="319" alt="Screen Shot 2022-03-28 at 10 18 58 PM" src="https://user-images.githubusercontent.com/9143339/160538626-7e4c9097-b635-4ea4-be6e-e5bcbc1f9c77.png">
 
-In the CoB hosted learning day conversations, you will have a chance to finish work asynchronously with your team within GitHub issues and #advocats slack channel as a way to accumulate more prizes for your favorite charity through Benevity Missions on top of the prizes you get to redeem from hours volunteered. 
+In the CoB hosted learning day conversations, you will have a chance to finish work asynchronously with your team within GitHub issues and #advocats slack channel as a way to accumulate more prizes for your favorite charity through Benevity on top of the prizes you get to redeem from hours volunteered. 
 
 ## Program Schedule <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
