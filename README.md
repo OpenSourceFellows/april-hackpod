@@ -1,5 +1,5 @@
 ### Table of Contents for Earth Day: Learning and Brainstorming
-**Sign Up as a [participant](https://github.benevity.org/volunteer/189)**
+**Sign Up as a [participant](https://github.benevity.org/volunteer/189)** | [Enablement Guide](https://docs.google.com/document/d/1LCbBOacai8xUoyWjBOdULNA4Q5Iu0dEU64e12p97RtE/edit?usp=sharing)
    
 Story 
   - [What are we solving](#story)
@@ -12,16 +12,18 @@ How it will be built
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
-# We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day! (April 21st 8:45am-2:30pm pt)
+# Join our Hack Epic Planning on Earth Day to power the biggest climate action in New York (April 21st 8:45am-2:30pm pt)
 https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a1e1-4ac2e54c261a.mp4
 
-Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. 
-
-**Amplify Epic Breakdown:** We are using the best practices we have picked up across this stack and our skillsets to do an epic planning session for the next iterations of the Amplify product. [ProgramEquity](#story) provides us community informed research which translates advoocacy requests into Epics we volunteer to plan implementation of. 
-- [Look at Epics to be brainstormed ](#challenge)
+Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day!
 
 <p align="center">
-<img width="818" alt="Screen Shot 2022-03-30 at 8 20 20 AM" src="https://user-images.githubusercontent.com/9143339/160880520-c6d6c4ff-19ba-4d8d-9651-3f9d50d6187e.png">
+<img width="702" alt="Screen Shot 2022-04-06 at 9 53 17 AM" src="https://user-images.githubusercontent.com/9143339/162027245-b08e6ba6-f9aa-425e-b798-17ddc6284ead.png">
+   
+**Hack Epic Planning:** For the first half we are using the best practices we have picked up across this stack and our skillsets to do an epic planning session for the next iterations of the Amplify product. [ProgramEquity](#story) provides us community informed research which translates advoocacy requests into Epics we volunteer to plan implementation of. 
+- [Look at Epics to be brainstormed ](#challenge)
+<p align="center">
+<img width="1191" alt="Screen Shot 2022-04-06 at 9 20 38 AM" src="https://user-images.githubusercontent.com/9143339/162021802-553d7966-ddeb-4ac5-8d29-ba27bd81327f.png">
 
 
 **Learning Circle with CoBs:** For the second part of the learning and brainstorm day, we have 3 panels for you to listen to and deepen your understanding of sustainability, land stewardship, and Indigenous communities across the globe
@@ -82,10 +84,10 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
 </p>
    
 
-### Setting up teams 
+### Setting up teams
+Our goal is to create complete issues outlining solutions in a way that Bootcamp students who are new to open source and webapp strtuctures can implement 
 **1. First, select the skillset you'd like to participate in:**
 <img width="911" alt="Screen Shot 2022-03-28 at 3 31 42 PM" src="https://user-images.githubusercontent.com/9143339/160497962-deec2f02-92db-4b5f-a5d1-784f157933f9.png">
-
 
 **2. In the second part, select one epic you'd like to be a part of to write out implementation instructions for:**
    - Epic 1: [Bettering codespace experience for outside collaborators ](https://github.com/ProgramEquity/amplify/issues/19)
@@ -94,6 +96,8 @@ The first part of an Earth Day Learning Day will focus on your input on the foll
    - Epic 4: [QA bugs and unit tests for Cicero and Stripe APIs(Jest)](https://github.com/ProgramEquity/amplify/issues/149)
    - Epic 5: Integrating user education with [Twilio](https://github.com/ProgramEquity/amplify/issues/128) and [Chatbot APIs](https://github.com/ProgramEquity/amplify/issues/129)
    - Epic 6: [Abstracting database operations via Objection ORM ](https://github.com/ProgramEquity/amplify/issues/31)
+3. An Epic is complete when it has the following 
+<img width="970" alt="Screen Shot 2022-04-06 at 10 09 34 AM" src="https://user-images.githubusercontent.com/9143339/162029907-8972ed22-a7f5-4b79-b29c-29022499ad9b.png">
 
 ### Prizes with Benevity Missions
 <p align="center">
