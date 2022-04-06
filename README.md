@@ -1,4 +1,4 @@
-### Table of Contents for Earth Day: Learning and Brainstorming
+### Table of Contents for Earth Day Epic Planning Hack
 **Sign Up as a [participant](https://github.benevity.org/volunteer/189)** | [Enablement Guide](https://docs.google.com/document/d/1LCbBOacai8xUoyWjBOdULNA4Q5Iu0dEU64e12p97RtE/edit?usp=sharing)
    
 Story 
