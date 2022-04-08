@@ -33,7 +33,7 @@ Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring H
 
 
 ## Challenge: <a name = "challenge"></a>
-Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
+Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustainability. 
 The first part of an Earth Day Learning Day will focus on your input on the following issues for best implementation practices 
 
 
@@ -196,7 +196,7 @@ Hackathon will be held virtually on Zoom. Here is your schedule based on the tra
 </p>
 
 # What is ProgramEquity? <a name = "story"></a>
-ProgramEquity provides research driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
+ProgramEquity provides research that is driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 
 [Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this learning day  is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
 
