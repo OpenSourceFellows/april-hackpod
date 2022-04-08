@@ -100,7 +100,7 @@ Our goal is to create complete issues outlining solutions in a way that Bootcamp
 **3. An Epic is complete when it has the following**
 <img width="802" alt="Screen Shot 2022-04-06 at 1 27 29 PM" src="https://user-images.githubusercontent.com/9143339/162065058-de651fd4-efd3-4151-8b7f-c5e22b41d4c7.png">
 
-### Prizes with Benevity Missions
+### Prizes with Benevity Missions: Receive 20$ to donate per each hour volunteered
 <p align="center">
 
 
