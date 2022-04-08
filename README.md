@@ -96,6 +96,7 @@ Our goal is to create complete issues outlining solutions in a way that Bootcamp
    - Epic 4: [QA bugs and unit tests for Cicero and Stripe APIs(Jest)](https://github.com/ProgramEquity/amplify/issues/149)
    - Epic 5: Integrating user education with [Twilio](https://github.com/ProgramEquity/amplify/issues/128) and [Chatbot APIs](https://github.com/ProgramEquity/amplify/issues/129)
    - Epic 6: [Abstracting database operations via Objection ORM ](https://github.com/ProgramEquity/amplify/issues/31)
+
 **3. An Epic is complete when it has the following**
 <img width="802" alt="Screen Shot 2022-04-06 at 1 27 29 PM" src="https://user-images.githubusercontent.com/9143339/162065058-de651fd4-efd3-4151-8b7f-c5e22b41d4c7.png">
 
