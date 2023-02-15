@@ -15,6 +15,11 @@ How it will be built
 # Join our Epic Planning Hack on Earth Day to power the biggest climate action in New York (April 21st 8:45am-2:30pm pt)
 https://user-images.githubusercontent.com/9143339/155761031-aae63edc-7632-475a-a1e1-4ac2e54c261a.mp4
 
+https://user-images.githubusercontent.com/9143339/219117225-8e0726ee-3317-4bd9-8e01-ca36ad6509e0.mp4
+
+
+
+
 Octo7, Blacktocats, OctoAsians, Octogatos, and Adacats are pairing up to bring Hubbers a day of learning and brainstorming from within our communities. We are trying to meet 10% Hubber partipation during [Volunteer month](https://thehub.github.com/github/social-impact/) for Earth Day!
 
 <p align="center">
